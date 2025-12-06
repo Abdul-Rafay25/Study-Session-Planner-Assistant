@@ -16,6 +16,7 @@ The difficulty lies not in identifying *what* needs to be studied, but *how to s
 - Students cannot divide topics effectively within limited daily time slots.
 - Workload becomes unbalanced, leading to burnout or missed topics.
 - Revision for difficult topics is often ignored due to poor planning.
+- Student motivation drops due to lack of a clear starting point.
 
 ## 4. Goal of the MVP (Minimum Viable Product)
 The system aims to convert a **short-term academic goal** into a **balanced 1–2 week study schedule**.
